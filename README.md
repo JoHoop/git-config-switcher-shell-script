@@ -6,4 +6,4 @@ I've set up the script to be an alias for my Zsh shell on macOS.
 2. Add `alias gitconfig="bash /Users/username/gitconfig.sh"` to the hidden `.zshrc` config file in your home directory.
 3. Now `gitconfig` will be a global command.
 
-<img src="demo.png" width="200">
+<img src="demo.png" width="500">
